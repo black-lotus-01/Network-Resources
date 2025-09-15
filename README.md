@@ -131,4 +131,4 @@ by James Forshaw.
 
 ## License
 
-This repository is under the [CC0 1.0 Universal](https://creativecommons.org/publicdomain/zero/1.0/) license.
+This repository is under the MIT license.
